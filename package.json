@@ -16,7 +16,7 @@
     "react-scroll": "^1.7.16",
     "react-scroll-parallax": "^2.3.2",
     "react-vivus": "0.0.2",
-    "swiper": "^5.3.6",
+    "swiper": "^6.5.1",
     "vivus": "^0.4.5"
   },
   "scripts": {
